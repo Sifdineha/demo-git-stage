@@ -1,1 +1,1 @@
-Ligne modifiée depuis branche 1
+Ligne finale après résolution du conflit
